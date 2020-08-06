@@ -1,5 +1,7 @@
 # keylogger
 
-very simple keylogger
+very simple keylogger with powershell script
 
-// would like to make a genric timer that sends an email every minute
+Powershell script was widely used. Since there was no need for attatchments that was removed. 
+
+Would like to expand recognizable commands as well as a mousehook.
