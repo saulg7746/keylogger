@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <fstream>
+#include "timer.h"
+
 
 #ifndef KEYS_H
 #define KEYS_H
